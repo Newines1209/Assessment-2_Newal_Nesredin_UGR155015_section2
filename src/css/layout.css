@@ -19,16 +19,16 @@
   padding: 40px;
   border-radius: 8px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-  width: 87%; /* Wider for desktop view */
+  width: 87%; 
 }
 
 .aa{
   margin-right: 20px;
-  margin-left:px;
+ 
 }
 .bb{
   margin-right: 20px;
-  margin-left:px;
+ 
 }
 .p1{
   margin-bottom: 0px ;
@@ -84,7 +84,7 @@ footer {
 
 .gallery {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 3 columns */
+  grid-template-columns: repeat(3, 1fr);
   gap: 10px;
 }
 
@@ -116,21 +116,21 @@ footer {
   padding: 40px;
   border-radius: 8px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-  width: 250px; /* Wider for desktop view */
+  width: 250px; 
 }
 .par{
   background-color: #fff;
   padding: 40px;
   border-radius: 8px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-  width: 500px; /* Wider for desktop view */
+  width: 500px; 
 }
 .form-container {
   background-color: #fff;
   padding: 40px;
   border-radius: 8px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-  width: 500px; /* Wider for desktop view */
+  width: 500px; 
 }
 
 h2 {
@@ -162,7 +162,7 @@ input, textarea, button {
 }
 
 textarea {
-  resize: none; /* Prevent resizing */
+  resize: none; 
 }
 
 button {
